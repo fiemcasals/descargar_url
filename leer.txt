@@ -1,0 +1,7 @@
+ 
+notas:
+
+descargar las librerias que figuran en el import
+asegurarse el lugar donde se van a descargar los videos
+ver el tema del interprete de python…la manera mas facil es mediante el atajo de teclas shift-ctrl-p y seleccionar la opcion de “buscar ruta/path” navegar en mi caso hasta la carpeta de ambiente virtual, y seleccionar la version de python que tenia.
+nota: una forma de ver la version que tiene para el proyecto. una vez activado el ambiente (en mi caso que lo tenia configurado) es mediante el comando “python –version”
